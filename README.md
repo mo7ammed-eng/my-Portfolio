@@ -1,214 +1,346 @@
-<div align="center">
+# Mohammed Waleed — Cinematic Developer Portfolio & GitHub Developer Platform
 
-# 🎬 Sarang — Ultimate Open-Source Cinematic Next.js Developer Portfolio
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-13-FF7043?style=for-the-badge&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?style=for-the-badge&logo=tailwindcss)
+![GSAP](https://img.shields.io/badge/GSAP-3-07903A?style=for-the-badge&logo=gsap)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threejs)
 
-### The Most Immersive, High-Performance, and AI-Ready Portfolio Template for Developers, Designers & Creative Engineers.
+## Overview
 
-Built with **Next.js 16 (App Router)** · **React 19** · **GSAP 3** · **Three.js** · **Framer Motion** · **Tailwind CSS v4** · **Supabase** · **Resend**
+This repository contains a **cinematic full-stack developer portfolio** combined with an **open-source GitHub developer platform**.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-sarang--space.site-ff6b1a?style=for-the-badge)](https://sarang-space.site)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy_with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/5araang/nextjs-cinematic-portfolio)
+The public side presents Mohammed Waleed as a creative full-stack developer through a cinematic portfolio experience. The platform side allows visitors to browse published public GitHub repositories, inspect repository details, read README content, and navigate repository files.
 
-<br />
+The private side provides an admin dashboard for managing GitHub connections, repository publishing, analytics, monitoring, security, and operations.
 
-> *"From first impression to final interaction, Sarang helps you build a portfolio that feels like a premium digital product—not just another personal website."*
+The project is split into two applications:
 
-</div>
-
----
-
-## 🌟 Overview
-
-**Sarang** is a 100% free, open-source, production-ready cinematic developer portfolio template designed to give developers, designers, video editors, and creative engineers an award-quality digital signature. 
-
-Unlike standard grid-based portfolios, **Sarang** merges scroll-driven video scrubbing, fluid GSAP micro-animations, 3D WebGL effects, built-in dashboard analytics, a full markdown blogging engine with user comments, and an intuitive administrative CMS dashboard into one seamless experience.
-
-⭐ **100% Free** | ⭐ **MIT Licensed** | ⭐ **Production Ready** | ⭐ **SEO & AI-LLM Optimized**
+1. **Next.js 15 (App Router) frontend** — public portfolio, admin UI, and backend-for-frontend API routes.
+2. **Laravel 13 API** — source of truth for GitHub data, monitoring, security, logs, and repository state.
 
 ---
 
-## 👤 Created By & Official Links
+## What the Website Does
 
-- **Author**: Sarang ([@5araang](https://instagram.com/5araang) / [@Saarangggg](https://github.com/Saarangggg))
-- **Website**: [https://sarang-space.site](https://sarang-space.site) (or [www.sarang-space.site](https://www.sarang-space.site))
-- **Instagram**: [@5araang](https://instagram.com/5araang)
-- **GitHub**: [https://github.com/5araang](https://github.com/5araang) / [https://github.com/Saarangggg](https://github.com/Saarangggg)
-- **Contact / Hire**: [https://sarang-space.site/contact](https://sarang-space.site/contact)
+### Public portfolio experience
 
----
+- Cinematic hero section with scroll-driven video scrubbing.
+- GSAP-powered entrance animations and scroll-triggered effects.
+- Smooth scrolling with Lenis.
+- Three.js / React Three Fiber visual effects.
+- Framer Motion and GSAP animations.
+- Projects, work, about, contact, and coming-soon sections.
+- Custom cursor and grain/blur visual treatments.
+- Responsive design across desktop, tablet, and mobile.
 
-## ✨ Why Choose Sarang?
+### Open-source GitHub browser
 
-Unlike traditional portfolio templates, **Sarang** is built as a complete production-ready portfolio platform. It combines cinematic scroll animations, a modern content management workflow, built-in privacy analytics, markdown blogging, testimonials, SEO optimization, AI-friendly metadata, and an intuitive admin dashboard into one seamless experience.
+- Public repository listing at `/open-source`.
+- Repository detail pages at `/open-source/[owner]/[repo]`.
+- Search, filtering, and sorting for published public repositories.
+- README rendering.
+- File tree navigation.
+- File content preview.
+- Source code and download links.
 
-*   **🎥 Scroll-Driven Video Scrubbing:** Frame-accurate video playback synchronized directly to user scrolling speeds.
-*   **✨ 120fps GSAP Animations:** Fully responsive scroll-triggered layouts and magnetic interaction effects for dynamic responsiveness.
-*   **📱 Unified & Collapsible Admin Dashboard:** Desktop collapsed icon-only sidebar (`localStorage` persistence) with mobile blur overlay drawer.
-*   **📊 Native Dashboard Analytics:** Privacy-friendly visitor tracking, link clicks, page loads, and active user analytics without bloat.
-*   **💬 Interactive Blog & CMS:** Full markdown blog manager with admin-repliable threaded user comments and dynamic tag filtering.
-*   **✉️ Seamless Contact System:** Custom inquiry routing backed by Resend for instant email notifications.
-*   **🔐 Launch Protection:** Optional Coming Soon splash screen with password bypass validation logic.
-*   **🤖 AI Chatbot Compatibility (`/llms.txt`):** Native machine-readable profile designed for AI agents (Gemini, Claude, ChatGPT, Perplexity).
+### Admin operations
 
----
-
-## ⚡ Tech Stack
-
-| Domain | Technologies Used |
-| :--- | :--- |
-| **Framework** | Next.js 16 (App Router), React 19 |
-| **Animation & 3D** | GSAP 3 (ScrollTrigger), Three.js, React Three Fiber, Framer Motion |
-| **Styling** | Tailwind CSS v4, Vanilla CSS variables (`--orange: #ff6b1a`) |
-| **Backend & Database** | Supabase (PostgreSQL), Next.js API Routes |
-| **Email Service** | Resend API |
-| **Deployment** | Vercel, Netlify, Custom Node.js servers |
-| **Metadata & SEO** | Open Graph, JSON-LD Schema (`Person`, `SoftwareSourceCode`), `llms.txt`, Dynamic Sitemaps |
+- Admin login and JWT-based session handling through Next.js.
+- Laravel-backed admin data through the Next.js BFF.
+- GitHub connection and synchronization.
+- Repository publishing workflow.
+- Dashboard metrics and traffic insights.
+- Visitor sessions and request attribution.
+- System logs and frontend error reports.
+- Security blocking and audit events.
+- API client token management.
 
 ---
 
-## 📊 Feature Comparison
+## Features
 
-| Feature | 🎬 Sarang | Typical Portfolio Templates |
-| :--- | :---: | :---: |
-| **Scroll Video Scrubbing** | ✅ | ❌ |
-| **GSAP & 3D Integration** | ✅ | ❌ |
-| **Built-in CMS & Admin Dashboard** | ✅ | ❌ |
-| **Native Analytics** | ✅ | ❌ |
-| **Blog with Comment Threads** | ✅ | ❌ |
-| **AI LLM Indexing (`/llms.txt`)** | ✅ | ❌ |
-| **Custom Accent Customization** | ✅ | ⚠️ |
-| **MIT Free & Open Source** | ✅ | ⚠️ |
+### Cinematic frontend
+
+- Scroll-synced video playback.
+- GSAP ScrollTrigger animations.
+- Framer Motion page transitions and motion components.
+- Three.js WebGL effects.
+- Lenis smooth scroll.
+- Custom cursor with hover scaling.
+- Grain overlay and visual blur effects.
+
+### GitHub integration
+
+- GitHub OAuth connection.
+- Public repository import/sync.
+- Webhook handling with HMAC SHA-256 signature validation.
+- Published public repository visibility rules.
+- Manual repository sync.
+- Repository metadata and feature management.
+
+### Admin dashboard
+
+- Light operations theme.
+- Mobile-friendly responsive admin layout.
+- Admin authentication through Next.js JWT and Laravel Sanctum service token.
+- Admin routes protected by Laravel middleware.
+
+### Monitoring and analytics
+
+- Visitor session tracking.
+- Page view and request activity monitoring.
+- Frontend error reporting.
+- System logs with filtering and CSV export.
+- Security events and audit trail.
+- Request attribution and API client tracking.
 
 ---
 
-## 🎯 Who Is This For?
+## Tech Stack
 
-- ✅ **Software Engineers & Full Stack Developers:** Showcase your full-stack projects, architecture, and live demos.
-- ✅ **Frontend & UI/UX Engineers:** Display interactive micro-animations and responsive components.
-- ✅ **Creative Engineers & 3D Creators:** Demonstrate WebGL, Three.js, and GSAP visual masterpieces.
-- ✅ **Freelancers & Agencies:** Collect inbound inquiries with integrated email routing and analytics.
-- ✅ **Content Creators & Technical Writers:** Publish blog posts with markdown support and user discussions.
-- ✅ **Video Editors & Motion Designers:** Feature video reels with frame-accurate scroll scrubbing.
+### Frontend
+
+- **Next.js 15** — App Router, API route handlers, middleware.
+- **React 19** — UI framework.
+- **Tailwind CSS 4** — utility-first styling.
+- **GSAP 3** — scroll animations.
+- **Framer Motion / Motion** — animation library.
+- **Three.js / React Three Fiber** — WebGL effects.
+- **Lenis** — smooth scrolling.
+- **jose** — JWT admin auth.
+- **react-icons** — icon set.
+- **Playwright** — browser verification tooling.
+
+### Backend
+
+- **Laravel 13** — API framework.
+- **PHP 8.3+**.
+- **Sanctum** — API authentication.
+- **MySQL** — primary database.
+- **Tinker / PHPUnit** — database and testing workflows.
+
+### Integrations
+
+- **GitHub REST API / OAuth / Webhooks**.
+- **Resend** — transactional email support.
+- **MySQL database** for backend state.
+
+### Deployment
+
+- **Next.js deployment** — Vercel or self-hosted Node server.
+- **Laravel deployment** — standard PHP hosting or container platform.
 
 ---
 
-## 🛠️ Step-by-Step Installation
+## Architecture
 
-Technical setup guidelines, database schemas, and deployment instructions are stored in our dedicated setup guide:
+### Next.js ↔ Laravel communication
 
-### 👉 **[Read the INSTALL.md Setup Guide](INSTALL.md)**
-
-*   🔧 **[Local Development Setup](INSTALL.md#-local-installation)** (Cloning, dependencies, environment setup)
-*   🗄️ **[Database Table Script](INSTALL.md#-database-setup-supabase)** (Supabase SQL queries)
-*   ⚙️ **[Environment Variables Config](INSTALL.md#-environment-variables-envlocal)** (Detailed parameter reference)
-*   🌍 **[Production Deployment Instructions](INSTALL.md#-production-deployments)** (Vercel deployment)
-
----
-
-## 🎨 Content & Theme Customization
-
-Customizing theme accents, copy, and profile information takes only a few minutes:
-
-### 1. Changing the Primary Accent Color
-The signature accent color throughout Sarang is orange (`#ff6b1a`). Change it globally in `src/app/globals.css`:
-```css
-:root {
-  --orange: #ff6b1a; /* Swap this hex code with your custom accent color */
-}
+```text
+Next.js public/admin/BFF
+        ↓
+Next.js API route handlers
+        ↓
+Laravel /api/*
+        ↓
+MySQL
 ```
 
-### 2. Modifying Personal Copy & Bio
-- **Biography & Skills:** Edit [`src/app/about/content.js`](file:///c:/Users/Asus/Downloads/portiflo-main/src/app/about/content.js)
-- **Projects Fallback Data:** Edit [`src/app/work/content.js`](file:///c:/Users/Asus/Downloads/portiflo-main/src/app/work/content.js)
-- **Contact Info & Socials:** Edit [`src/app/contact/content.js`](file:///c:/Users/Asus/Downloads/portiflo-main/src/app/contact/content.js)
+- Next.js owns the public UI and admin UI.
+- Laravel owns the source of truth.
+- Next.js BFF proxies requests to Laravel.
+- Admin calls use a server-side Laravel service token.
+- Browser requests to Laravel admin routes should not receive the Laravel token directly.
+
+### Authentication flow
+
+- Next.js issues JWT admin token.
+- Next.js BFF forwards admin requests to Laravel with `LARAVEL_SERVICE_TOKEN`.
+- Laravel validates token through Sanctum and applies admin middleware.
+
+### GitHub flow
+
+- GitHub OAuth app connects user account.
+- Public repositories are synced/imported.
+- Webhook validates `X-Hub-Signature-256`.
+- Invalid webhook signatures fail closed.
+- Public repository browser only shows repositories marked published and visible as public.
+
+### Monitoring flow
+
+- Frontend calls Next.js analytics endpoints.
+- Next.js BFF forwards relevant data to Laravel.
+- Laravel records visitor sessions and request activity.
+- Admin pages poll backend endpoints for live updates.
 
 ---
 
-## 🤖 SEO & AI / LLM Compatibility
+## Getting Started
 
-Sarang is built from the ground up to be discovered and parsed accurately by modern search engines and AI assistants (ChatGPT, Gemini, Claude, Perplexity, Copilot):
+### Prerequisites
 
-*   **`llms.txt` & `llms-full.txt` Standards:** Machine-readable profile feeds providing structured context to AI agents.
-*   **Structured Data (JSON-LD):** Auto-injected `Person`, `WebSite`, and `SoftwareSourceCode` schemas in page head.
-*   **Dynamic XML Sitemaps (`/sitemap.xml`):** Re-generated automatically on builds to index projects and articles.
-*   **Robots & Canonical Tags:** Standard `robots.txt` directives with canonical URL enforcement.
-*   **Open Graph & Twitter Cards:** Pre-configured social media sharing previews.
+- **Node.js 18+**
+- **npm**
+- **PHP 8.3+**
+- **Composer**
+- **MySQL**
+- **GitHub OAuth App** for private repository sync / account sync.
 
----
+### Backend setup
 
-## 🔎 Searchable Keywords Index
+```bash
+cd api
 
-`Next.js Portfolio` · `Developer Portfolio` · `Portfolio Template` · `Open Source Portfolio` · `Next.js Portfolio Template` · `Cinematic Portfolio` · `Creative Portfolio` · `GSAP Portfolio` · `Three.js Portfolio` · `Framer Motion Portfolio` · `Tailwind CSS Portfolio` · `React Portfolio` · `Personal Website` · `Modern Portfolio` · `Software Engineer Portfolio`
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve --host=127.0.0.1 --port=8000
+```
 
----
+### Frontend setup
 
-## 🗺️ Project Roadmap
+```bash
+npm install
+cp .env.example .env.local
+npm run dev
+```
 
-- [x] Next.js 16 & React 19 Migration
-- [x] Collapsible Admin Dashboard & Native Analytics
-- [x] Full Markdown Blog with Threaded Comments
-- [x] AI Agent Compatibility Engine (`/llms.txt`)
-- [ ] Multi-language i18n support
-- [ ] Customizable Theme Preset Switcher
-- [ ] Custom Plugin API Architecture
-- [ ] AI-Powered CMS Writing Assistant
-- [ ] Open-Source Portfolio Template Marketplace
+### Run the application
 
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=5araang/nextjs-cinematic-portfolio&type=Date)](https://star-history.com/#5araang/nextjs-cinematic-portfolio&Date)
-
----
-
-## 💬 Frequently Asked Questions (FAQ)
-
-<details>
-<summary><b>1. Can I use Sarang for commercial projects?</b></summary>
-<br />
-Yes! Sarang is 100% free and open-source under the MIT License. You can modify, brand, host, and deploy it commercially without restriction.
-</details>
-
-<details>
-<summary><b>2. Can I remove credits or alter footer links?</b></summary>
-<br />
-Yes! You have complete freedom to remove, modify, or add any credits, footer links, and branding elements.
-</details>
-
-<details>
-<summary><b>3. Do I need Supabase to run Sarang?</b></summary>
-<br />
-Supabase powers the CMS, blog comments, and native analytics. However, static fallbacks exist in <code>content.js</code> files so you can run the portfolio offline or without a database setup.
-</details>
-
-<details>
-<summary><b>4. Can I deploy Sarang on Vercel?</b></summary>
-<br />
-Yes! Sarang is optimized for zero-config deployment on Vercel. Simply import your GitHub repository and set your environment variables.
-</details>
-
-<details>
-<summary><b>5. Can I customize all text, colors, and layout components?</b></summary>
-<br />
-Absolutely. Everything in Sarang is modular, componentized, and completely customizable.
-</details>
+- Frontend: `http://localhost:3000`
+- Backend: `http://127.0.0.1:8000/api`
+- Admin login: `http://localhost:3000/admin/login`
 
 ---
 
-## 📄 License
+## Environment Variables
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+### Next.js (`.env.local`)
+
+```env
+NEXT_PUBLIC_SITE_URL=https://mohammedwaleed.dev
+NEXT_PUBLIC_WHATSAPP_NUMBER=201038191703
+NEXT_PUBLIC_RESUME_URL=
+NEXT_PUBLIC_GITHUB_USERNAME=
+
+JWT_SECRET=
+ADMIN_EMAIL=
+ADMIN_PASSWORD=
+COMING_SOON_PASSWORD=
+
+RESEND_API_KEY=
+
+LARAVEL_API_URL=http://127.0.0.1:8000/api
+LARAVEL_SERVICE_TOKEN=
+```
+
+### Laravel (`api/.env`)
+
+```env
+APP_NAME="Waleed Portfolio API"
+APP_ENV=local
+APP_KEY=
+APP_DEBUG=true
+APP_URL=http://localhost:8000
+
+FRONTEND_URL=http://localhost:3000
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=waleed_portfolio
+DB_USERNAME=root
+DB_PASSWORD=
+
+SYSTEM_LOG_RETENTION_DAYS=30
+REQUEST_ACTIVITY_RETENTION_DAYS=90
+VISITOR_RETENTION_DAYS=180
+
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+GITHUB_OAUTH_REDIRECT_URI=http://localhost:3000/api/admin/github/callback
+GITHUB_WEBHOOK_SECRET=
+GITHUB_TOKEN=
+GITHUB_API_TIMEOUT=20
+```
+
+> Do not commit real secrets. Use environment files or secret managers in production.
 
 ---
 
-<div align="center">
+## Scripts
 
-**Created with ❤️ by [Sarang (@5araang)](https://instagram.com/5araang)**
+### Root frontend
 
-🌐 **[Live Demo](https://sarang-space.site)** · 📖 **[Setup Guide](INSTALL.md)** · 🐛 **[Report Issue](https://github.com/5araang/nextjs-cinematic-portfolio/issues)** · 📸 **[Instagram](https://instagram.com/5araang)**
+```bash
+npm run dev
+npm run build
+npm run start
+npm run lint
+```
 
-</div>
+### Laravel API
+
+```bash
+cd api
+
+composer install
+composer dev
+composer test
+
+php artisan serve --host=127.0.0.1 --port=8000
+php artisan migrate
+```
+
+---
+
+## Testing and Verification
+
+- Frontend production build:
+
+```bash
+npm run build
+```
+
+- Backend tests:
+
+```bash
+cd api
+php artisan test
+```
+
+- Manual browser checks are used for public pages, admin pages, GitHub API routes, analytics, logs, and security flows.
+
+---
+
+## Deployment Notes
+
+- Deploy the Next.js frontend to Vercel or a Node.js host.
+- Deploy the Laravel API to a PHP-capable host or container platform.
+- Set production environment variables for both apps.
+- Configure GitHub OAuth callback and webhook URL for production.
+- Configure `NEXT_PUBLIC_GITHUB_USERNAME` for the public GitHub profile link.
+- Configure backend URL and service token for the frontend BFF.
+
+---
+
+## Current Status
+
+- Public cinematic portfolio implemented.
+- Open-source GitHub browser implemented.
+- Admin dashboard implemented.
+- GitHub OAuth/webhook integration implemented.
+- Monitoring and security features implemented.
+- Production build passes.
+- Backend test suite passes.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+
