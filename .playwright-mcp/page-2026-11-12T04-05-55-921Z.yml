@@ -1,0 +1,68 @@
+- generic [ref=f6e2]:
+  - complementary [ref=f6e3]:
+    - link "MW Developer Platform" [ref=f6e5] [cursor=pointer]:
+      - /url: /admin
+      - generic [ref=f6e6]: MW
+      - generic [ref=f6e7]: Developer Platform
+    - navigation [ref=f6e8]:
+      - generic [ref=f6e9]:
+        - paragraph [ref=f6e10]: Overview
+        - link "Dashboard" [ref=f6e12] [cursor=pointer]:
+          - /url: /admin
+      - generic [ref=f6e20]:
+        - paragraph [ref=f6e21]: Developer
+        - generic [ref=f6e22]:
+          - link "GitHub" [ref=f6e23] [cursor=pointer]:
+            - /url: /admin/github
+          - link "Repositories" [ref=f6e28] [cursor=pointer]:
+            - /url: /admin/repositories
+      - generic [ref=f6e33]:
+        - paragraph [ref=f6e34]: Audience
+        - generic [ref=f6e35]:
+          - link "Visitors" [ref=f6e36] [cursor=pointer]:
+            - /url: /admin/visitors
+          - link "Requests" [ref=f6e43] [cursor=pointer]:
+            - /url: /admin/requests
+      - generic [ref=f6e48]:
+        - paragraph [ref=f6e49]: Operations
+        - generic [ref=f6e50]:
+          - link "System Console" [ref=f6e51] [cursor=pointer]:
+            - /url: /admin/system
+          - link "Security" [ref=f6e57] [cursor=pointer]:
+            - /url: /admin/security
+          - link "API Clients" [ref=f6e63] [cursor=pointer]:
+            - /url: /admin/api-clients
+      - generic [ref=f6e69]:
+        - paragraph [ref=f6e70]: Content
+        - generic [ref=f6e71]:
+          - link "Projects" [ref=f6e72] [cursor=pointer]:
+            - /url: /admin/projects
+          - link "Content" [ref=f6e77] [cursor=pointer]:
+            - /url: /admin/content
+          - link "Inquiries" [ref=f6e83] [cursor=pointer]:
+            - /url: /admin/inquiries
+          - link "Reviews" [ref=f6e89] [cursor=pointer]:
+            - /url: /admin/reviews
+          - link "Analytics" [ref=f6e94] [cursor=pointer]:
+            - /url: /admin/analytics
+          - link "Links" [ref=f6e98] [cursor=pointer]:
+            - /url: /admin/links
+          - link "Site" [ref=f6e104] [cursor=pointer]:
+            - /url: /admin/site
+    - generic [ref=f6e110]:
+      - link "View site" [ref=f6e111] [cursor=pointer]:
+        - /url: /
+      - button "Sign out" [ref=f6e116] [cursor=pointer]
+      - button "Collapse menu" [ref=f6e121] [cursor=pointer]
+  - main [ref=f6e126]:
+    - generic [ref=f6e128]:
+      - generic [ref=f6e129]:
+        - heading "GitHub" [level=1] [ref=f6e130]
+        - paragraph [ref=f6e131]: Connect your account, sync repositories and configure webhooks.
+      - generic [ref=f6e132]:
+        - generic [ref=f6e133]: Live monitoring
+        - link "Public site" [ref=f6e135] [cursor=pointer]:
+          - /url: /open-source
+          - text: Public site
+          - generic [aria-hidden] [ref=f6e136]: ↗
+    - generic [ref=f6e137]: Checking GitHub integration…

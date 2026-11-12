@@ -1,0 +1,63 @@
+- generic [ref=f20e2]:
+  - button "Open menu" [ref=f20e3] [cursor=pointer]
+  - complementary [ref=f20e5]:
+    - generic [ref=f20e6]:
+      - link "MW Developer Platform" [ref=f20e7] [cursor=pointer]:
+        - /url: /admin
+        - generic [ref=f20e8]: MW
+        - generic [ref=f20e9]: Developer Platform
+      - button "Close menu" [ref=f20e10] [cursor=pointer]
+    - navigation [ref=f20e14]:
+      - generic [ref=f20e15]:
+        - paragraph [ref=f20e16]: Overview
+        - link "Dashboard" [ref=f20e18] [cursor=pointer]:
+          - /url: /admin
+      - generic [ref=f20e26]:
+        - paragraph [ref=f20e27]: Developer
+        - generic [ref=f20e28]:
+          - link "GitHub" [ref=f20e29] [cursor=pointer]:
+            - /url: /admin/github
+          - link "Repositories" [ref=f20e34] [cursor=pointer]:
+            - /url: /admin/repositories
+      - generic [ref=f20e39]:
+        - paragraph [ref=f20e40]: Audience
+        - generic [ref=f20e41]:
+          - link "Visitors" [ref=f20e42] [cursor=pointer]:
+            - /url: /admin/visitors
+          - link "Requests" [ref=f20e49] [cursor=pointer]:
+            - /url: /admin/requests
+      - generic [ref=f20e54]:
+        - paragraph [ref=f20e55]: Operations
+        - generic [ref=f20e56]:
+          - link "System Console" [ref=f20e57] [cursor=pointer]:
+            - /url: /admin/system
+          - link "Security" [ref=f20e63] [cursor=pointer]:
+            - /url: /admin/security
+          - link "API Clients" [ref=f20e69] [cursor=pointer]:
+            - /url: /admin/api-clients
+      - generic [ref=f20e75]:
+        - paragraph [ref=f20e76]: Content
+        - generic [ref=f20e77]:
+          - link "Projects" [ref=f20e78] [cursor=pointer]:
+            - /url: /admin/projects
+          - link "Content" [ref=f20e83] [cursor=pointer]:
+            - /url: /admin/content
+          - link "Inquiries" [ref=f20e89] [cursor=pointer]:
+            - /url: /admin/inquiries
+          - link "Reviews" [ref=f20e95] [cursor=pointer]:
+            - /url: /admin/reviews
+          - link "Analytics" [ref=f20e100] [cursor=pointer]:
+            - /url: /admin/analytics
+          - link "Links" [ref=f20e104] [cursor=pointer]:
+            - /url: /admin/links
+          - link "Site" [ref=f20e110] [cursor=pointer]:
+            - /url: /admin/site
+    - generic [ref=f20e116]:
+      - link "View site" [ref=f20e117] [cursor=pointer]:
+        - /url: /
+      - button "Sign out" [ref=f20e122] [cursor=pointer]
+  - main [ref=f20e127]:
+    - generic [ref=f20e130]:
+      - heading "Dashboard" [level=1] [ref=f20e131]
+      - paragraph [ref=f20e132]: Platform activity, visitors and repository health.
+    - generic [ref=f20e133]: Loading platform metrics…

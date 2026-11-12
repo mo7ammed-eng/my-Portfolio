@@ -1,0 +1,295 @@
+- generic [active] [ref=f21e1]:
+  - generic [ref=f21e2]:
+    - button "Open menu" [ref=f21e3] [cursor=pointer]
+    - complementary [ref=f21e5]:
+      - generic [ref=f21e6]:
+        - link "MW Developer Platform" [ref=f21e7] [cursor=pointer]:
+          - /url: /admin
+          - generic [ref=f21e8]: MW
+          - generic [ref=f21e9]: Developer Platform
+        - button "Close menu" [ref=f21e10] [cursor=pointer]
+      - navigation [ref=f21e14]:
+        - generic [ref=f21e15]:
+          - paragraph [ref=f21e16]: Overview
+          - link "Dashboard" [ref=f21e18] [cursor=pointer]:
+            - /url: /admin
+        - generic [ref=f21e26]:
+          - paragraph [ref=f21e27]: Developer
+          - generic [ref=f21e28]:
+            - link "GitHub" [ref=f21e29] [cursor=pointer]:
+              - /url: /admin/github
+            - link "Repositories" [ref=f21e34] [cursor=pointer]:
+              - /url: /admin/repositories
+        - generic [ref=f21e39]:
+          - paragraph [ref=f21e40]: Audience
+          - generic [ref=f21e41]:
+            - link "Visitors" [ref=f21e42] [cursor=pointer]:
+              - /url: /admin/visitors
+            - link "Requests" [ref=f21e49] [cursor=pointer]:
+              - /url: /admin/requests
+        - generic [ref=f21e54]:
+          - paragraph [ref=f21e55]: Operations
+          - generic [ref=f21e56]:
+            - link "System Console" [ref=f21e57] [cursor=pointer]:
+              - /url: /admin/system
+            - link "Security" [ref=f21e63] [cursor=pointer]:
+              - /url: /admin/security
+            - link "API Clients" [ref=f21e69] [cursor=pointer]:
+              - /url: /admin/api-clients
+        - generic [ref=f21e75]:
+          - paragraph [ref=f21e76]: Content
+          - generic [ref=f21e77]:
+            - link "Projects" [ref=f21e78] [cursor=pointer]:
+              - /url: /admin/projects
+            - link "Content" [ref=f21e83] [cursor=pointer]:
+              - /url: /admin/content
+            - link "Inquiries" [ref=f21e89] [cursor=pointer]:
+              - /url: /admin/inquiries
+            - link "Reviews" [ref=f21e95] [cursor=pointer]:
+              - /url: /admin/reviews
+            - link "Analytics" [ref=f21e100] [cursor=pointer]:
+              - /url: /admin/analytics
+            - link "Links" [ref=f21e104] [cursor=pointer]:
+              - /url: /admin/links
+            - link "Site" [ref=f21e110] [cursor=pointer]:
+              - /url: /admin/site
+      - generic [ref=f21e116]:
+        - link "View site" [ref=f21e117] [cursor=pointer]:
+          - /url: /
+        - button "Sign out" [ref=f21e122] [cursor=pointer]
+    - main [ref=f21e127]:
+      - generic [ref=f21e130]:
+        - heading "Dashboard" [level=1] [ref=f21e131]
+        - paragraph [ref=f21e132]: Platform activity, visitors and repository health.
+      - generic [ref=f21e135]:
+        - generic [ref=f21e136]:
+          - generic [ref=f21e137]:
+            - button "24 hours" [ref=f21e138] [cursor=pointer]
+            - button "7 days" [ref=f21e139] [cursor=pointer]
+            - button "30 days" [ref=f21e140] [cursor=pointer]
+            - button "90 days" [ref=f21e141] [cursor=pointer]
+          - generic [ref=f21e142]:
+            - generic [ref=f21e143]: Updated just now
+            - button "Refresh" [ref=f21e144] [cursor=pointer]
+        - generic [ref=f21e145]:
+          - generic [ref=f21e147]:
+            - paragraph [ref=f21e148]: Visitors
+            - paragraph [ref=f21e149]: "4"
+            - paragraph [ref=f21e150]: 4 active now
+          - generic [ref=f21e155]:
+            - paragraph [ref=f21e156]: Requests
+            - paragraph [ref=f21e157]: "48"
+            - paragraph [ref=f21e158]: 40 from integrations
+          - generic [ref=f21e165]:
+            - paragraph [ref=f21e166]: Errors
+            - paragraph [ref=f21e167]: "0"
+            - paragraph [ref=f21e168]: 0 critical
+          - generic [ref=f21e174]:
+            - paragraph [ref=f21e175]: Published repos
+            - paragraph [ref=f21e176]: "0"
+            - paragraph [ref=f21e177]: 0 pending review
+          - generic [ref=f21e184]:
+            - paragraph [ref=f21e185]: Blocked
+            - paragraph [ref=f21e186]: 0 / 0
+            - paragraph [ref=f21e187]: IPs / users
+        - generic [ref=f21e191]:
+          - generic [ref=f21e192]:
+            - generic [ref=f21e193]:
+              - generic [ref=f21e194]:
+                - heading "Traffic" [level=2] [ref=f21e195]
+                - paragraph [ref=f21e196]: Requests and unique visitors over the selected range
+              - generic [ref=f21e197]:
+                - generic [ref=f21e198]: Requests
+                - generic [ref=f21e200]: Visitors
+            - generic [ref=f21e202]:
+              - generic [ref=f21e204]:
+                - 'generic "Fri: 0" [ref=f21e205]'
+                - 'generic "Fri: 0" [ref=f21e206]'
+              - generic [ref=f21e208]:
+                - 'generic "Sat: 0" [ref=f21e209]'
+                - 'generic "Sat: 0" [ref=f21e210]'
+              - generic [ref=f21e212]:
+                - 'generic "Sun: 0" [ref=f21e213]'
+                - 'generic "Sun: 0" [ref=f21e214]'
+              - generic [ref=f21e216]:
+                - 'generic "Mon: 0" [ref=f21e217]'
+                - 'generic "Mon: 0" [ref=f21e218]'
+              - generic [ref=f21e220]:
+                - 'generic "Tue: 0" [ref=f21e221]'
+                - 'generic "Tue: 0" [ref=f21e222]'
+              - generic [ref=f21e224]:
+                - 'generic "Wed: 0" [ref=f21e225]'
+                - 'generic "Wed: 0" [ref=f21e226]'
+              - generic [ref=f21e228]:
+                - 'generic "Thu: 4" [ref=f21e229]'
+                - 'generic "Thu: 48" [ref=f21e230]'
+          - generic [ref=f21e231]:
+            - generic [ref=f21e233]:
+              - heading "Repository health" [level=2] [ref=f21e234]
+              - paragraph [ref=f21e235]: Publishing pipeline
+            - paragraph [ref=f21e237]: No repositories imported yet.
+            - link "Manage GitHub integration" [ref=f21e239] [cursor=pointer]:
+              - /url: /admin/github
+              - text: Manage GitHub integration
+              - generic [aria-hidden] [ref=f21e240]: →
+        - generic [ref=f21e241]:
+          - generic [ref=f21e242]:
+            - generic [ref=f21e244]:
+              - heading "Traffic sources" [level=2] [ref=f21e245]
+              - paragraph [ref=f21e246]: Where requests originate
+            - generic [ref=f21e247]:
+              - generic [ref=f21e249]:
+                - generic [ref=f21e250]: Unknown
+                - generic [ref=f21e251]: "40"
+              - generic [ref=f21e255]:
+                - generic [ref=f21e256]: Website
+                - generic [ref=f21e257]: "8"
+          - generic [ref=f21e260]:
+            - generic [ref=f21e262]:
+              - heading "Top pages" [level=2] [ref=f21e263]
+              - paragraph [ref=f21e264]: Most requested routes
+            - generic [ref=f21e265]:
+              - generic [ref=f21e267]:
+                - generic [ref=f21e268]: /api/settings/site/coming_soon
+                - generic [ref=f21e269]: "32"
+              - generic [ref=f21e273]:
+                - generic [ref=f21e274]: /api/admin/system-logs/stats
+                - generic [ref=f21e275]: "3"
+              - generic [ref=f21e279]:
+                - generic [ref=f21e280]: /api/admin/system-logs
+                - generic [ref=f21e281]: "2"
+              - generic [ref=f21e285]:
+                - generic [ref=f21e286]: /api/settings/theme
+                - generic [ref=f21e287]: "2"
+              - generic [ref=f21e291]:
+                - generic [ref=f21e292]: /api/projects
+                - generic [ref=f21e293]: "1"
+              - generic [ref=f21e297]:
+                - generic [ref=f21e298]: /api/settings/site/site_identity
+                - generic [ref=f21e299]: "1"
+          - generic [ref=f21e302]:
+            - generic [ref=f21e303]:
+              - generic [ref=f21e304]:
+                - heading "Recent logs" [level=2] [ref=f21e305]
+                - paragraph [ref=f21e306]: Warnings and errors
+              - link "Open console" [ref=f21e307] [cursor=pointer]:
+                - /url: /admin/system
+            - paragraph [ref=f21e309]: No warnings or errors. All clear.
+        - generic [ref=f21e310]:
+          - generic [ref=f21e311]:
+            - generic [ref=f21e313]:
+              - heading "Recent requests" [level=2] [ref=f21e314]
+              - paragraph [ref=f21e315]: Latest attributed API activity
+            - link "View all" [ref=f21e316] [cursor=pointer]:
+              - /url: /admin/requests
+          - table [ref=f21e318]:
+            - rowgroup [ref=f21e319]:
+              - row [ref=f21e320]:
+                - columnheader "Request" [ref=f21e321]
+                - columnheader "Source" [ref=f21e322]
+                - columnheader "Status" [ref=f21e323]
+                - columnheader "Device" [ref=f21e324]
+                - columnheader "When" [ref=f21e325]
+            - rowgroup [ref=f21e326]:
+              - row [ref=f21e327]:
+                - cell "GET /api/admin/dashboard/stats" [ref=f21e328]:
+                  - generic [ref=f21e329]: GET
+                  - text: /api/admin/dashboard/stats
+                - cell "Website" [ref=f21e330]
+                - cell "200" [ref=f21e331]
+                - cell "desktop · Chrome" [ref=f21e333]:
+                  - text: desktop
+                  - generic [ref=f21e334]: · Chrome
+                - cell "just now" [ref=f21e335]
+              - row [ref=f21e336]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e337]:
+                  - generic [ref=f21e338]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e339]
+                - cell "200" [ref=f21e340]
+                - cell "desktop · Unknown" [ref=f21e342]:
+                  - text: desktop
+                  - generic [ref=f21e343]: · Unknown
+                - cell "just now" [ref=f21e344]
+              - row [ref=f21e345]:
+                - cell "GET /api/settings/theme" [ref=f21e346]:
+                  - generic [ref=f21e347]: GET
+                  - text: /api/settings/theme
+                - cell "Unknown" [ref=f21e348]
+                - cell "200" [ref=f21e349]
+                - cell "desktop · Unknown" [ref=f21e351]:
+                  - text: desktop
+                  - generic [ref=f21e352]: · Unknown
+                - cell "just now" [ref=f21e353]
+              - row [ref=f21e354]:
+                - cell "POST /api/sessions/leave" [ref=f21e355]:
+                  - generic [ref=f21e356]: POST
+                  - text: /api/sessions/leave
+                - cell "Unknown" [ref=f21e357]
+                - cell "200" [ref=f21e358]
+                - cell "desktop · Unknown" [ref=f21e360]:
+                  - text: desktop
+                  - generic [ref=f21e361]: · Unknown
+                - cell "just now" [ref=f21e362]
+              - row [ref=f21e363]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e364]:
+                  - generic [ref=f21e365]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e366]
+                - cell "200" [ref=f21e367]
+                - cell "desktop · Unknown" [ref=f21e369]:
+                  - text: desktop
+                  - generic [ref=f21e370]: · Unknown
+                - cell "just now" [ref=f21e371]
+              - row [ref=f21e372]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e373]:
+                  - generic [ref=f21e374]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e375]
+                - cell "200" [ref=f21e376]
+                - cell "desktop · Unknown" [ref=f21e378]:
+                  - text: desktop
+                  - generic [ref=f21e379]: · Unknown
+                - cell "just now" [ref=f21e380]
+              - row [ref=f21e381]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e382]:
+                  - generic [ref=f21e383]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e384]
+                - cell "200" [ref=f21e385]
+                - cell "desktop · Unknown" [ref=f21e387]:
+                  - text: desktop
+                  - generic [ref=f21e388]: · Unknown
+                - cell "just now" [ref=f21e389]
+              - row [ref=f21e390]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e391]:
+                  - generic [ref=f21e392]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e393]
+                - cell "200" [ref=f21e394]
+                - cell "desktop · Unknown" [ref=f21e396]:
+                  - text: desktop
+                  - generic [ref=f21e397]: · Unknown
+                - cell "just now" [ref=f21e398]
+              - row [ref=f21e399]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e400]:
+                  - generic [ref=f21e401]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e402]
+                - cell "200" [ref=f21e403]
+                - cell "desktop · Unknown" [ref=f21e405]:
+                  - text: desktop
+                  - generic [ref=f21e406]: · Unknown
+                - cell "just now" [ref=f21e407]
+              - row [ref=f21e408]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f21e409]:
+                  - generic [ref=f21e410]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f21e411]
+                - cell "200" [ref=f21e412]
+                - cell "desktop · Unknown" [ref=f21e414]:
+                  - text: desktop
+                  - generic [ref=f21e415]: · Unknown
+                - cell "just now" [ref=f21e416]
+  - button "Open Next.js Dev Tools" [ref=f21e422] [cursor=pointer]
+  - alert [ref=f21e426]: Dashboard

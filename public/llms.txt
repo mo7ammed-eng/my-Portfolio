@@ -1,0 +1,77 @@
+# Mohammed Waleed — Full Stack Developer
+
+> Mohammed Waleed is a full stack developer from Egypt with 6 years of programming experience and 4 years of freelance delivery.
+> He builds scalable web applications and RESTful APIs that blend solid architecture, clean code, and modern technology into products that are reliable and smooth to use.
+> Available for freelance projects worldwide.
+
+## Who is Mohammed Waleed?
+
+Mohammed Waleed is a full stack developer based in Egypt. He works across the entire stack — from database design to polished user interfaces — mainly with React, Next.js, Node.js, Express, PHP, TypeScript, MySQL, and MongoDB. He combines frontend and backend development with AI-powered workflows to ship faster and with cleaner code.
+
+He served as Team Lead & Full Stack Developer from March to September 2024, coordinating cross-functional teams of designers and developers, managing agile task distribution, code reviews, client communication, and end-to-end SDLC delivery. He is currently studying while continuing freelance full stack development.
+
+## Services — What Can Mohammed Waleed Do For You?
+
+### 1. Web Application Development
+Scalable, production-ready web applications with clean system architecture — from database design to polished, responsive interfaces built with React, Next.js, TypeScript, and Tailwind CSS.
+
+### 2. Backend Engineering
+REST and GraphQL APIs, authentication, third-party integrations, and business logic engineered with Node.js, Express, PHP, Laravel, and TypeScript.
+
+### 3. Large-Scale Platforms
+Inventory management, warehouse operations, QR and barcode tracking, and analytics dashboards — large-scale commerce and educational platforms built end-to-end.
+
+## Projects
+
+### Educational Platform
+A complete science education platform for chemistry featuring:
+- Barcode-based attendance verification at classroom entry
+- Automated parent notification system for attendance confirmation
+- Real-time internal chat
+- Secure video and file upload management
+- Advanced content access control with time-based video restriction
+
+### Commerce Platform
+A smart commerce, inventory and QR tracking platform featuring:
+- Inventory management
+- Warehouse operations
+- QR and barcode scan-based product verification
+- Analytics dashboards
+
+Built with Next.js, Tailwind CSS, TypeScript, Node.js, Express, and GraphQL.
+
+## Skills
+
+**Frontend:** React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS
+**Backend:** REST APIs, GraphQL APIs, Node.js, Express.js, PHP, Laravel, TypeScript
+**Databases:** MySQL, MongoDB
+**DevOps & Tools:** CI/CD, Git, GitHub, Postman, AI-powered development workflows
+**Practices:** Clean architecture, database design, code review, agile delivery
+
+## Experience
+
+- **Team Lead & Full Stack Developer** — Self-Employed (March 2024 – September 2024)
+  Led freelance full-stack projects: team coordination, agile task distribution, code reviews, client communication, and end-to-end delivery of scalable web applications.
+- **Freelance Full Stack Developer** — Self-Employed (2021 – Present)
+  Delivered multiple client web applications end-to-end, from planning to deployment, adapting to each project's technology requirements.
+
+## Education
+
+Al-Wadi Higher Institute — El Obour, Egypt
+
+## Contact
+
+- Email: mo7ammed.engineer@gmail.com
+- Phone / WhatsApp: +20 103 819 1703
+- LinkedIn: https://www.linkedin.com/in/mohammed-waleed-83098b370
+- Location: Egypt — available for remote freelance work worldwide
+
+## This Portfolio
+
+This portfolio is built with Next.js, React, GSAP, Three.js, and a Laravel API backend. It is fully dynamic: all content is managed through a custom admin dashboard.
+
+## Machine-readable endpoints
+
+- JSON summary for AI agents: /api/llms
+- Project list: /api/works
+- Sitemap: /sitemap.xml

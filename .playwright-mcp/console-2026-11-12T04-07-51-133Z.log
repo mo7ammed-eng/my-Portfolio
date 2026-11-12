@@ -1,0 +1,976 @@
+[     925ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25631
+[    1603ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    1740ms] [LOG] [Fast Refresh] done in 137ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    2358ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    2458ms] [LOG] [Fast Refresh] done in 100ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    3020ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    3081ms] [LOG] [Fast Refresh] done in 61ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    3639ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    3688ms] [LOG] [Fast Refresh] done in 48ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    4179ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    4269ms] [LOG] [Fast Refresh] done in 91ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    4781ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    4842ms] [LOG] [Fast Refresh] done in 62ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    5435ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    5516ms] [LOG] [Fast Refresh] done in 82ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    6006ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    6128ms] [LOG] [Fast Refresh] done in 123ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    6646ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    6728ms] [LOG] [Fast Refresh] done in 81ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    7404ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    7461ms] [LOG] [Fast Refresh] done in 58ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    8019ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    8154ms] [LOG] [Fast Refresh] done in 135ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    8622ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    8677ms] [LOG] [Fast Refresh] done in 56ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    9238ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    9332ms] [LOG] [Fast Refresh] done in 94ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[    9832ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[    9938ms] [LOG] [Fast Refresh] done in 106ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   10449ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   10507ms] [LOG] [Fast Refresh] done in 59ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   11025ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   11124ms] [LOG] [Fast Refresh] done in 98ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   11672ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   11765ms] [LOG] [Fast Refresh] done in 93ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   12420ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   12482ms] [LOG] [Fast Refresh] done in 62ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   13111ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   13193ms] [LOG] [Fast Refresh] done in 83ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   14072ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   14594ms] [LOG] [Fast Refresh] done in 523ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   15198ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   15296ms] [LOG] [Fast Refresh] done in 97ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   15815ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   15855ms] [LOG] [Fast Refresh] done in 40ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   16375ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   16496ms] [LOG] [Fast Refresh] done in 121ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   17283ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   17340ms] [LOG] [Fast Refresh] done in 57ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   18346ms] [LOG] [Fast Refresh] done in 1063ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   18355ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   19472ms] [LOG] [Fast Refresh] done in 1117ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   19479ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   19705ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/api/admin/system-logs/stats?days=7:1
+[   20435ms] [LOG] [Fast Refresh] done in 956ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   20443ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   21613ms] [LOG] [Fast Refresh] done in 1170ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   21620ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   22348ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   22490ms] [LOG] [Fast Refresh] done in 142ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   23078ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   23141ms] [LOG] [Fast Refresh] done in 62ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   23777ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   23837ms] [LOG] [Fast Refresh] done in 60ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   24325ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   24397ms] [LOG] [Fast Refresh] done in 71ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   24854ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   24907ms] [LOG] [Fast Refresh] done in 54ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   25407ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   25482ms] [LOG] [Fast Refresh] done in 76ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   25979ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   26021ms] [LOG] [Fast Refresh] done in 41ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   26535ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   26662ms] [LOG] [Fast Refresh] done in 127ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   27340ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   27408ms] [LOG] [Fast Refresh] done in 69ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   27911ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   27968ms] [LOG] [Fast Refresh] done in 57ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   28927ms] [LOG] [Fast Refresh] done in 1016ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   28935ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   29828ms] [LOG] [Fast Refresh] done in 893ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   30010ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   30686ms] [LOG] [Fast Refresh] done in 675ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   30692ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   31291ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   31430ms] [LOG] [Fast Refresh] done in 139ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   32008ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   32088ms] [LOG] [Fast Refresh] done in 80ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   32649ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   32753ms] [LOG] [Fast Refresh] done in 103ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   33866ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   33999ms] [LOG] [Fast Refresh] done in 134ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   34532ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   34574ms] [LOG] [Fast Refresh] done in 42ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   35081ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   35139ms] [LOG] [Fast Refresh] done in 59ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   35594ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   35627ms] [LOG] [Fast Refresh] done in 34ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   36119ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   36164ms] [LOG] [Fast Refresh] done in 45ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   36759ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   36857ms] [LOG] [Fast Refresh] done in 97ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   37462ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   37529ms] [LOG] [Fast Refresh] done in 67ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   38164ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   38238ms] [LOG] [Fast Refresh] done in 74ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   38759ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   38798ms] [LOG] [Fast Refresh] done in 40ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   39266ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   39364ms] [LOG] [Fast Refresh] done in 99ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   39850ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   39903ms] [LOG] [Fast Refresh] done in 52ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   40420ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   40472ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   40981ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   41022ms] [LOG] [Fast Refresh] done in 41ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   41512ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   41669ms] [LOG] [Fast Refresh] done in 157ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   42226ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   42285ms] [LOG] [Fast Refresh] done in 59ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   42880ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   42931ms] [LOG] [Fast Refresh] done in 52ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   43552ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   43598ms] [LOG] [Fast Refresh] done in 45ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   44139ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   44266ms] [LOG] [Fast Refresh] done in 126ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   44800ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   44850ms] [LOG] [Fast Refresh] done in 50ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   45434ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   45483ms] [LOG] [Fast Refresh] done in 49ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   45995ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   46095ms] [LOG] [Fast Refresh] done in 101ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   46589ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   46675ms] [LOG] [Fast Refresh] done in 86ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   47388ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   47452ms] [LOG] [Fast Refresh] done in 64ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   48019ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   48063ms] [LOG] [Fast Refresh] done in 45ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   48561ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   48637ms] [LOG] [Fast Refresh] done in 75ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   49086ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   49154ms] [LOG] [Fast Refresh] done in 68ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   49635ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   49675ms] [LOG] [Fast Refresh] done in 40ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   50172ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   50243ms] [LOG] [Fast Refresh] done in 71ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   50720ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   50774ms] [LOG] [Fast Refresh] done in 55ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   51266ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   51364ms] [LOG] [Fast Refresh] done in 98ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   53228ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   53291ms] [LOG] [Fast Refresh] done in 63ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   54505ms] [LOG] [Fast Refresh] done in 1276ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   54507ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   54813ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/admin/system?_rsc=OQpFlUx4YK0KGTZ3:1
+[   55098ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   55161ms] [LOG] [Fast Refresh] done in 62ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   55760ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   55812ms] [LOG] [Fast Refresh] done in 52ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   56300ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   56357ms] [LOG] [Fast Refresh] done in 56ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   57351ms] [LOG] [Fast Refresh] done in 1050ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   57364ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   58349ms] [LOG] [Fast Refresh] done in 984ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   58352ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   58509ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/admin/system?_rsc=OQpFlUx4YK0KGTZ3:1
+[   59002ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   59054ms] [LOG] [Fast Refresh] done in 52ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   59634ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   59688ms] [LOG] [Fast Refresh] done in 54ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   60180ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   60224ms] [LOG] [Fast Refresh] done in 44ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   60697ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   60768ms] [LOG] [Fast Refresh] done in 71ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   61263ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   61332ms] [LOG] [Fast Refresh] done in 69ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   61916ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   61982ms] [LOG] [Fast Refresh] done in 66ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   62556ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   62666ms] [LOG] [Fast Refresh] done in 110ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   63188ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   63251ms] [LOG] [Fast Refresh] done in 64ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   63772ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   63816ms] [LOG] [Fast Refresh] done in 44ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   64302ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   64344ms] [LOG] [Fast Refresh] done in 43ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   64806ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   64911ms] [LOG] [Fast Refresh] done in 105ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   65341ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   65395ms] [LOG] [Fast Refresh] done in 55ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   65932ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   66003ms] [LOG] [Fast Refresh] done in 72ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   66482ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   66618ms] [LOG] [Fast Refresh] done in 136ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   67155ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   67246ms] [LOG] [Fast Refresh] done in 92ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   67770ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   67814ms] [LOG] [Fast Refresh] done in 44ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   68325ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   68432ms] [LOG] [Fast Refresh] done in 107ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   69003ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   69074ms] [LOG] [Fast Refresh] done in 71ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   69572ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   69650ms] [LOG] [Fast Refresh] done in 79ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   70135ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   70181ms] [LOG] [Fast Refresh] done in 46ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   70647ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   70739ms] [LOG] [Fast Refresh] done in 92ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   71198ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   71242ms] [LOG] [Fast Refresh] done in 44ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   72238ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   72670ms] [LOG] [Fast Refresh] done in 433ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   73308ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   73362ms] [LOG] [Fast Refresh] done in 55ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   74002ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   74102ms] [LOG] [Fast Refresh] done in 100ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   74590ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   74654ms] [LOG] [Fast Refresh] done in 63ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   75156ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   75205ms] [LOG] [Fast Refresh] done in 49ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   75743ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   75800ms] [LOG] [Fast Refresh] done in 56ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   76277ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   76371ms] [LOG] [Fast Refresh] done in 94ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   77020ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   77071ms] [LOG] [Fast Refresh] done in 50ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   77612ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   77683ms] [LOG] [Fast Refresh] done in 70ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   78168ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   78226ms] [LOG] [Fast Refresh] done in 58ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   78699ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   78785ms] [LOG] [Fast Refresh] done in 87ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   79285ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   79335ms] [LOG] [Fast Refresh] done in 51ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   79861ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   79921ms] [LOG] [Fast Refresh] done in 60ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   80408ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   80464ms] [LOG] [Fast Refresh] done in 55ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   80917ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   81016ms] [LOG] [Fast Refresh] done in 99ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   81492ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   81558ms] [LOG] [Fast Refresh] done in 66ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   82149ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   82196ms] [LOG] [Fast Refresh] done in 48ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   82779ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   82840ms] [LOG] [Fast Refresh] done in 61ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   83376ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   83468ms] [LOG] [Fast Refresh] done in 91ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   84011ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   84075ms] [LOG] [Fast Refresh] done in 64ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   84644ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   84700ms] [LOG] [Fast Refresh] done in 57ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   85199ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   85238ms] [LOG] [Fast Refresh] done in 38ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   85749ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   85825ms] [LOG] [Fast Refresh] done in 76ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   86301ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   86393ms] [LOG] [Fast Refresh] done in 92ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   87044ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   87107ms] [LOG] [Fast Refresh] done in 64ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   87745ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   87797ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   88383ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   88488ms] [LOG] [Fast Refresh] done in 106ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   89046ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   89101ms] [LOG] [Fast Refresh] done in 54ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   89633ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   89690ms] [LOG] [Fast Refresh] done in 57ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   90231ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   90294ms] [LOG] [Fast Refresh] done in 63ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   91336ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   91886ms] [LOG] [Fast Refresh] done in 550ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   92712ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   92883ms] [LOG] [Fast Refresh] done in 171ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   93553ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   93610ms] [LOG] [Fast Refresh] done in 57ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   94251ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   94357ms] [LOG] [Fast Refresh] done in 105ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   94897ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   94963ms] [LOG] [Fast Refresh] done in 65ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   95610ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   95698ms] [LOG] [Fast Refresh] done in 89ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   96486ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   96580ms] [LOG] [Fast Refresh] done in 94ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   97283ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   97385ms] [LOG] [Fast Refresh] done in 101ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   97963ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   98029ms] [LOG] [Fast Refresh] done in 67ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   98602ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   98667ms] [LOG] [Fast Refresh] done in 66ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   99241ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[   99305ms] [LOG] [Fast Refresh] done in 63ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[   99936ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  100023ms] [LOG] [Fast Refresh] done in 88ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  100661ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  100704ms] [LOG] [Fast Refresh] done in 43ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  101255ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  101364ms] [LOG] [Fast Refresh] done in 109ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  102071ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  102171ms] [LOG] [Fast Refresh] done in 100ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  102812ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  102909ms] [LOG] [Fast Refresh] done in 98ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  103410ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  103507ms] [LOG] [Fast Refresh] done in 97ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  104086ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  104134ms] [LOG] [Fast Refresh] done in 47ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  104748ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  104822ms] [LOG] [Fast Refresh] done in 73ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  105360ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  105449ms] [LOG] [Fast Refresh] done in 89ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  106495ms] [LOG] [Fast Refresh] done in 1135ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  106511ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  106694ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/admin/system?_rsc=OQpFlUx4YK0KGTZ3:1
+[  107380ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  107467ms] [LOG] [Fast Refresh] done in 88ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  107966ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  108075ms] [LOG] [Fast Refresh] done in 108ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  108622ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  108682ms] [LOG] [Fast Refresh] done in 60ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  109274ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  109349ms] [LOG] [Fast Refresh] done in 74ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  109895ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  109945ms] [LOG] [Fast Refresh] done in 50ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  110494ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  110613ms] [LOG] [Fast Refresh] done in 119ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  111116ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  111197ms] [LOG] [Fast Refresh] done in 82ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  111835ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  112005ms] [LOG] [Fast Refresh] done in 170ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  112643ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  112944ms] [LOG] [Fast Refresh] done in 300ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  114128ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  114182ms] [LOG] [Fast Refresh] done in 54ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  114777ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  114860ms] [LOG] [Fast Refresh] done in 82ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  115396ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  115448ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  116333ms] [LOG] [Fast Refresh] done in 938ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  116345ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  116830ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/admin/requests?_rsc=tDX4HodfCUusVci3:1
+[  117178ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  117246ms] [LOG] [Fast Refresh] done in 67ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  117815ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  117925ms] [LOG] [Fast Refresh] done in 110ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  119892ms] Error: E2E reporter test
+    at eval (eval at <anonymous> (eval at evaluate (:370:30)), <anonymous>:1:35)
+[  123252ms] [LOG] [Fast Refresh] done in 5436ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  123262ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  124467ms] [LOG] [Fast Refresh] done in 1205ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  124477ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  126461ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  126463ms] [LOG] [Fast Refresh] done in 1ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  127167ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  127326ms] [LOG] [Fast Refresh] done in 159ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  127839ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  127902ms] [LOG] [Fast Refresh] done in 63ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  128428ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  128484ms] [LOG] [Fast Refresh] done in 56ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  129020ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  129110ms] [LOG] [Fast Refresh] done in 91ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  129660ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  129743ms] [LOG] [Fast Refresh] done in 84ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  130300ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  130349ms] [LOG] [Fast Refresh] done in 49ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  130880ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  130933ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  131455ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  131518ms] [LOG] [Fast Refresh] done in 63ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  132128ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  132201ms] [LOG] [Fast Refresh] done in 73ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  132777ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  132838ms] [LOG] [Fast Refresh] done in 60ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  133404ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  133450ms] [LOG] [Fast Refresh] done in 46ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  134058ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  134155ms] [LOG] [Fast Refresh] done in 98ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  134659ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  134704ms] [LOG] [Fast Refresh] done in 46ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  135810ms] [LOG] [Fast Refresh] done in 1151ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  135819ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  136948ms] [LOG] [Fast Refresh] done in 1129ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  136974ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  138107ms] [LOG] [Fast Refresh] done in 1134ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  138286ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  138989ms] [LOG] [Fast Refresh] done in 704ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  139052ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  139635ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  139693ms] [LOG] [Fast Refresh] done in 59ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  140223ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  140272ms] [LOG] [Fast Refresh] done in 50ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  140794ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  140849ms] [LOG] [Fast Refresh] done in 56ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  141320ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  141459ms] [LOG] [Fast Refresh] done in 139ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  142389ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  142885ms] [LOG] [Fast Refresh] done in 496ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  143512ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  143587ms] [LOG] [Fast Refresh] done in 74ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  144212ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  144265ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  144838ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  144929ms] [LOG] [Fast Refresh] done in 92ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  145431ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  145490ms] [LOG] [Fast Refresh] done in 59ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  145973ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  146017ms] [LOG] [Fast Refresh] done in 44ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  146581ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  146747ms] [LOG] [Fast Refresh] done in 165ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  147302ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  147359ms] [LOG] [Fast Refresh] done in 58ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  148604ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  148630ms] [LOG] [Fast Refresh] done in 26ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  148641ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  148934ms] [LOG] [Fast Refresh] done in 294ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  149265ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  149392ms] [LOG] [Fast Refresh] done in 128ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  149918ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  149972ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  150557ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  150602ms] [LOG] [Fast Refresh] done in 46ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  151139ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  151205ms] [LOG] [Fast Refresh] done in 66ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  151826ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  151914ms] [LOG] [Fast Refresh] done in 88ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  152439ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  152504ms] [LOG] [Fast Refresh] done in 64ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  153060ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  153111ms] [LOG] [Fast Refresh] done in 51ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  153637ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  153686ms] [LOG] [Fast Refresh] done in 49ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  154138ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  154225ms] [LOG] [Fast Refresh] done in 87ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  154672ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  155185ms] [LOG] [Fast Refresh] done in 512ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  155193ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  155653ms] [LOG] [Fast Refresh] done in 460ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  155663ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  156161ms] [LOG] [Fast Refresh] done in 497ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  156169ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  156741ms] [LOG] [Fast Refresh] done in 572ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  156758ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  157595ms] [LOG] [Fast Refresh] done in 837ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  157635ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  157690ms] [LOG] [Fast Refresh] done in 54ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  158283ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  158400ms] [LOG] [Fast Refresh] done in 117ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  158926ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  158978ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  159565ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  159627ms] [LOG] [Fast Refresh] done in 62ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  160225ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  160295ms] [LOG] [Fast Refresh] done in 70ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  161237ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  161701ms] [LOG] [Fast Refresh] done in 463ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  162376ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  162496ms] [LOG] [Fast Refresh] done in 120ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  163047ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  163117ms] [LOG] [Fast Refresh] done in 70ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  163685ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  163737ms] [LOG] [Fast Refresh] done in 53ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  164318ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  164429ms] [LOG] [Fast Refresh] done in 111ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  164910ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  164976ms] [LOG] [Fast Refresh] done in 65ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  165570ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  165638ms] [LOG] [Fast Refresh] done in 69ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  166179ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  166296ms] [LOG] [Fast Refresh] done in 116ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  167062ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  167164ms] [LOG] [Fast Refresh] done in 102ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  168429ms] [LOG] [Fast Refresh] done in 1366ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  168436ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  169633ms] [LOG] [Fast Refresh] done in 1197ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  169637ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  169770ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/api/admin/system-logs?page=1&per_page=25:1
+[  170227ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  170306ms] [LOG] [Fast Refresh] done in 78ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  170783ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  170827ms] [LOG] [Fast Refresh] done in 43ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  171362ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  171423ms] [LOG] [Fast Refresh] done in 61ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  172153ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  172215ms] [LOG] [Fast Refresh] done in 62ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  172793ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/hot-reloader/app/hot-reloader-app.js:203
+[  172920ms] [LOG] [Fast Refresh] done in 126ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/dev/report-hmr-latency.js:18
+[  173383ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173385ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173390ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173390ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173399ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/__nextjs_original-stack-frames:1
+[  173401ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173401ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173405ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173405ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173411ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173412ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173416ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173416ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173420ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173420ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173424ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173425ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173428ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173429ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173432ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173432ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173436ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173436ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173439ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173439ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173443ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173443ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173449ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173449ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173453ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173453ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173460ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173460ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173464ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173464ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173468ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173468ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173472ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173472ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173476ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173477ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173481ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173481ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173485ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173485ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173489ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173490ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173494ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173495ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173498ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173498ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173502ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173502ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173507ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173507ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173511ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173511ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173515ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173516ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173520ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173520ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173524ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173524ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173528ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173529ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173532ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173532ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173536ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173536ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173540ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173540ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173543ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173543ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173546ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173547ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173550ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173550ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173553ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173554ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173556ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173557ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173561ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173561ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173569ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173569ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173573ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173573ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173577ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173577ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173581ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173582ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173588ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173588ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173592ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173592ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173597ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173597ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173601ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173601ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173604ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173605ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173608ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173609ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173613ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173613ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173616ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173617ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173621ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173621ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173625ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173625ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173629ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173629ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173632ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173632ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173635ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173636ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173639ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173639ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173643ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173643ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173646ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173647ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173650ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173650ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173656ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173656ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173659ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173659ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173662ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173663ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173666ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173667ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173670ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173671ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173675ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173676ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173679ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173679ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57
+[  173683ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/?_rsc=_mjR7ylJSLpkZcZ3:1
+[  173683ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. TypeError: Failed to fetch
+    at eval (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:221:25)
+    at step (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:183:21)
+    at Object.eval [as next] (webpack-internal:///(app-pages-browser)/./node_modules/tslib/tslib.es6.mjs:164:51)
+    at asyncGeneratorStep (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:7:28)
+    at _next (webpack-internal:///(app-pages-browser)/./node_modules/@swc/helpers/esm/_async_to_generator.js:24:17) @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/next-devtools/userspace/app/errors/intercept-console-error.js:57

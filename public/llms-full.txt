@@ -1,0 +1,81 @@
+# Mohammed Waleed — Full Stack Developer — Full Profile
+
+> Complete profile of Mohammed Waleed, a full stack developer from Egypt with 6 years of programming experience and 4 years of freelance delivery.
+
+## Identity
+
+- Name: Mohammed Waleed
+- Role: Full Stack Developer
+- Location: Egypt
+- Email: mo7ammed.engineer@gmail.com
+- Phone / WhatsApp: +20 103 819 1703
+- LinkedIn: https://www.linkedin.com/in/mohammed-waleed-83098b370
+- Availability: Remote freelance projects worldwide
+
+## Summary
+
+Results-driven Full Stack Developer with 6 years of programming experience and 4 years of independent freelance development. Specializes in scalable web applications and RESTful APIs, combining solid architecture, clean code, and modern technology. Works across the full stack — from database design to polished user interfaces — with React, Next.js, Node.js, Express, PHP, TypeScript, MySQL, and MongoDB. Uses AI-powered workflows to ship faster with cleaner code.
+
+## Experience
+
+### Team Lead & Full Stack Developer — Self-Employed
+March 2024 – September 2024
+Led freelance full-stack development projects by coordinating with cross-functional teams, including designers and developers, to deliver high-quality, scalable web applications. Managed agile task distribution, code reviews, client communication, and end-to-end SDLC.
+
+### Full Stack Developer — Self-Employed
+2021 – Present
+Developed and delivered multiple web applications for clients. Managed end-to-end project development from planning to deployment, working with different technologies based on project requirements and communicating closely with clients.
+
+## Projects
+
+### Educational Platform
+A complete educational platform for the subject of chemistry. Features barcode-based attendance verification at classroom entry, an automated parent notification system for attendance confirmation, real-time internal chat, secure video and file upload management, and advanced content access control with time-based video restriction. Designed to enhance student engagement, streamline classroom management, and improve communication between instructors, students, and parents through scalable, high-performance system architecture.
+
+### Commerce Platform
+Smart commerce, inventory and QR tracking platform. Built a large-scale commerce platform with inventory management, warehouse operations, QR tracking, and analytics dashboards using Next.js, Tailwind CSS, TypeScript, Node.js, Express, and GraphQL.
+
+## Skills
+
+### Frontend
+- HTML5, CSS3
+- JavaScript (ES6+), TypeScript
+- React, Next.js
+- Tailwind CSS
+
+### Backend
+- RESTful API development
+- GraphQL API development
+- Node.js, Express.js
+- PHP, Laravel
+- TypeScript
+
+### Databases
+- MySQL
+- MongoDB
+
+### DevOps & Professional Practices
+- CI/CD pipelines
+- Git, GitHub
+- Postman
+- Agile delivery, code review, client communication
+- AI-powered development workflows
+
+## Education
+
+Al-Wadi Higher Institute — El Obour, Egypt
+
+## Services
+
+1. **Web Application Development** — Scalable, production-ready web applications with clean system architecture, from database design to polished responsive interfaces.
+2. **Backend Engineering** — REST and GraphQL APIs, authentication, third-party integrations, and business logic.
+3. **Large-Scale Platforms** — Inventory management, warehouse operations, QR tracking, and analytics dashboards.
+
+## Hiring
+
+Mohammed Waleed is available for freelance projects worldwide. Typical response time is within 24 hours. Contact via the contact page, email, or WhatsApp.
+
+## Technology Stack of This Portfolio
+
+- Frontend: Next.js 15 (App Router), React, GSAP, Lenis, Three.js, Tailwind CSS
+- Backend: Laravel 13, Sanctum authentication, MySQL
+- Admin dashboard: fully dynamic content management for hero, about, skills, experience, services, projects, testimonials, blog, SEO, theme, and analytics

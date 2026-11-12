@@ -1,0 +1,114 @@
+- generic [ref=f17e2]:
+  - complementary [ref=f17e3]:
+    - link "MW Developer Platform" [ref=f17e5] [cursor=pointer]:
+      - /url: /admin
+      - generic [ref=f17e6]: MW
+      - generic [ref=f17e7]: Developer Platform
+    - navigation [ref=f17e8]:
+      - generic [ref=f17e9]:
+        - paragraph [ref=f17e10]: Overview
+        - link "Dashboard" [ref=f17e12] [cursor=pointer]:
+          - /url: /admin
+      - generic [ref=f17e20]:
+        - paragraph [ref=f17e21]: Developer
+        - generic [ref=f17e22]:
+          - link "GitHub" [ref=f17e23] [cursor=pointer]:
+            - /url: /admin/github
+          - link "Repositories" [ref=f17e28] [cursor=pointer]:
+            - /url: /admin/repositories
+      - generic [ref=f17e33]:
+        - paragraph [ref=f17e34]: Audience
+        - generic [ref=f17e35]:
+          - link "Visitors" [ref=f17e36] [cursor=pointer]:
+            - /url: /admin/visitors
+          - link "Requests" [ref=f17e43] [cursor=pointer]:
+            - /url: /admin/requests
+      - generic [ref=f17e48]:
+        - paragraph [ref=f17e49]: Operations
+        - generic [ref=f17e50]:
+          - link "System Console" [ref=f17e51] [cursor=pointer]:
+            - /url: /admin/system
+          - link "Security" [ref=f17e57] [cursor=pointer]:
+            - /url: /admin/security
+          - link "API Clients" [ref=f17e63] [cursor=pointer]:
+            - /url: /admin/api-clients
+      - generic [ref=f17e69]:
+        - paragraph [ref=f17e70]: Content
+        - generic [ref=f17e71]:
+          - link "Projects" [ref=f17e72] [cursor=pointer]:
+            - /url: /admin/projects
+          - link "Content" [ref=f17e77] [cursor=pointer]:
+            - /url: /admin/content
+          - link "Inquiries" [ref=f17e83] [cursor=pointer]:
+            - /url: /admin/inquiries
+          - link "Reviews" [ref=f17e89] [cursor=pointer]:
+            - /url: /admin/reviews
+          - link "Analytics" [ref=f17e94] [cursor=pointer]:
+            - /url: /admin/analytics
+          - link "Links" [ref=f17e98] [cursor=pointer]:
+            - /url: /admin/links
+          - link "Site" [ref=f17e104] [cursor=pointer]:
+            - /url: /admin/site
+    - generic [ref=f17e110]:
+      - link "View site" [ref=f17e111] [cursor=pointer]:
+        - /url: /
+      - button "Sign out" [ref=f17e116] [cursor=pointer]
+      - button "Collapse menu" [ref=f17e121] [cursor=pointer]
+  - main [ref=f17e126]:
+    - generic [ref=f17e128]:
+      - generic [ref=f17e129]:
+        - heading "System Console" [level=1] [ref=f17e130]
+        - paragraph [ref=f17e131]: Application logs, errors and diagnostics.
+      - generic [ref=f17e132]:
+        - generic [ref=f17e133]: Live monitoring
+        - link "Public site" [ref=f17e135] [cursor=pointer]:
+          - /url: /open-source
+          - text: Public site
+          - generic [aria-hidden] [ref=f17e136]: ↗
+    - generic [ref=f17e137]:
+      - generic [ref=f17e138]:
+        - button "debug 0 last 7 days" [ref=f17e139] [cursor=pointer]:
+          - generic [ref=f17e140]:
+            - generic [ref=f17e141]: debug
+            - generic [ref=f17e142]: "0"
+          - paragraph [ref=f17e143]: last 7 days
+        - button "info 0 last 7 days" [ref=f17e144] [cursor=pointer]:
+          - generic [ref=f17e145]:
+            - generic [ref=f17e146]: info
+            - generic [ref=f17e147]: "0"
+          - paragraph [ref=f17e148]: last 7 days
+        - button "warning 0 last 7 days" [ref=f17e149] [cursor=pointer]:
+          - generic [ref=f17e150]:
+            - generic [ref=f17e151]: warning
+            - generic [ref=f17e152]: "0"
+          - paragraph [ref=f17e153]: last 7 days
+        - button "error 0 last 7 days" [ref=f17e154] [cursor=pointer]:
+          - generic [ref=f17e155]:
+            - generic [ref=f17e156]: error
+            - generic [ref=f17e157]: "0"
+          - paragraph [ref=f17e158]: last 7 days
+        - button "critical 0 last 7 days" [ref=f17e159] [cursor=pointer]:
+          - generic [ref=f17e160]:
+            - generic [ref=f17e161]: critical
+            - generic [ref=f17e162]: "0"
+          - paragraph [ref=f17e163]: last 7 days
+      - generic [ref=f17e165]:
+        - generic [ref=f17e166]:
+          - textbox "Search message, source, exception…" [ref=f17e167] [cursor=pointer]
+          - combobox [ref=f17e168] [cursor=pointer]:
+            - option "All levels" [selected]
+            - option "debug"
+            - option "info"
+            - option "warning"
+            - option "error"
+            - option "critical"
+          - combobox [ref=f17e169] [cursor=pointer]:
+            - option "All categories" [selected]
+          - button "Filter" [ref=f17e170] [cursor=pointer]
+        - generic [ref=f17e171]:
+          - button "Live · 5s" [ref=f17e172] [cursor=pointer]
+          - link [ref=f17e173] [cursor=pointer]:
+            - /url: /api/admin/system-logs/export?page=1&per_page=25
+            - button "Export CSV" [ref=f17e174]
+          - button "Clear > 30d" [ref=f17e175] [cursor=pointer]
+      - generic [ref=f17e176]: Loading system logs…

@@ -1,0 +1,339 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e2]:
+    - complementary [ref=f4e3]:
+      - link "MW Developer Platform" [ref=f4e5] [cursor=pointer]:
+        - /url: /admin
+        - generic [ref=f4e6]: MW
+        - generic [ref=f4e7]: Developer Platform
+      - navigation [ref=f4e8]:
+        - generic [ref=f4e9]:
+          - paragraph [ref=f4e10]: Overview
+          - link "Dashboard" [ref=f4e12] [cursor=pointer]:
+            - /url: /admin
+        - generic [ref=f4e20]:
+          - paragraph [ref=f4e21]: Developer
+          - generic [ref=f4e22]:
+            - link "GitHub" [ref=f4e23] [cursor=pointer]:
+              - /url: /admin/github
+            - link "Repositories" [ref=f4e28] [cursor=pointer]:
+              - /url: /admin/repositories
+        - generic [ref=f4e33]:
+          - paragraph [ref=f4e34]: Audience
+          - generic [ref=f4e35]:
+            - link "Visitors" [ref=f4e36] [cursor=pointer]:
+              - /url: /admin/visitors
+            - link "Requests" [ref=f4e43] [cursor=pointer]:
+              - /url: /admin/requests
+        - generic [ref=f4e48]:
+          - paragraph [ref=f4e49]: Operations
+          - generic [ref=f4e50]:
+            - link "System Console" [ref=f4e51] [cursor=pointer]:
+              - /url: /admin/system
+            - link "Security" [ref=f4e57] [cursor=pointer]:
+              - /url: /admin/security
+            - link "API Clients" [ref=f4e63] [cursor=pointer]:
+              - /url: /admin/api-clients
+        - generic [ref=f4e69]:
+          - paragraph [ref=f4e70]: Content
+          - generic [ref=f4e71]:
+            - link "Projects" [ref=f4e72] [cursor=pointer]:
+              - /url: /admin/projects
+            - link "Content" [ref=f4e77] [cursor=pointer]:
+              - /url: /admin/content
+            - link "Inquiries" [ref=f4e83] [cursor=pointer]:
+              - /url: /admin/inquiries
+            - link "Reviews" [ref=f4e89] [cursor=pointer]:
+              - /url: /admin/reviews
+            - link "Analytics" [ref=f4e94] [cursor=pointer]:
+              - /url: /admin/analytics
+            - link "Links" [ref=f4e98] [cursor=pointer]:
+              - /url: /admin/links
+            - link "Site" [ref=f4e104] [cursor=pointer]:
+              - /url: /admin/site
+      - generic [ref=f4e110]:
+        - link "View site" [ref=f4e111] [cursor=pointer]:
+          - /url: /
+        - button "Sign out" [ref=f4e116] [cursor=pointer]
+        - button "Collapse menu" [ref=f4e121] [cursor=pointer]
+    - main [ref=f4e126]:
+      - generic [ref=f4e128]:
+        - generic [ref=f4e129]:
+          - heading "Dashboard" [level=1] [ref=f4e130]
+          - paragraph [ref=f4e131]: Platform activity, visitors and repository health.
+        - generic [ref=f4e132]:
+          - generic [ref=f4e133]: Live monitoring
+          - link "Public site" [ref=f4e135] [cursor=pointer]:
+            - /url: /open-source
+            - text: Public site
+            - generic [aria-hidden] [ref=f4e136]: ↗
+      - generic [ref=f4e149]:
+        - generic [ref=f4e150]:
+          - generic [ref=f4e151]:
+            - button "24 hours" [ref=f4e152] [cursor=pointer]
+            - button "7 days" [ref=f4e153] [cursor=pointer]
+            - button "30 days" [ref=f4e154] [cursor=pointer]
+            - button "90 days" [ref=f4e155] [cursor=pointer]
+          - generic [ref=f4e156]:
+            - generic [ref=f4e157]: Updated just now
+            - button "Refresh" [ref=f4e158] [cursor=pointer]
+        - generic [ref=f4e159]:
+          - generic [ref=f4e161]:
+            - paragraph [ref=f4e162]: Visitors
+            - paragraph [ref=f4e163]: "16"
+            - paragraph [ref=f4e164]: 4 active now
+          - generic [ref=f4e169]:
+            - paragraph [ref=f4e170]: Requests
+            - paragraph [ref=f4e171]: "55"
+            - paragraph [ref=f4e172]: 47 from integrations
+          - generic [ref=f4e179]:
+            - paragraph [ref=f4e180]: Errors
+            - paragraph [ref=f4e181]: "1"
+            - paragraph [ref=f4e182]: 0 critical
+          - generic [ref=f4e188]:
+            - paragraph [ref=f4e189]: Published repos
+            - paragraph [ref=f4e190]: "1"
+            - paragraph [ref=f4e191]: 0 pending review
+          - generic [ref=f4e198]:
+            - paragraph [ref=f4e199]: Blocked
+            - paragraph [ref=f4e200]: 0 / 0
+            - paragraph [ref=f4e201]: IPs / users
+        - generic [ref=f4e205]:
+          - generic [ref=f4e206]:
+            - generic [ref=f4e207]:
+              - generic [ref=f4e208]:
+                - heading "Traffic" [level=2] [ref=f4e209]
+                - paragraph [ref=f4e210]: Requests and unique visitors over the selected range
+              - generic [ref=f4e211]:
+                - generic [ref=f4e212]: Requests
+                - generic [ref=f4e214]: Visitors
+            - generic [ref=f4e216]:
+              - generic [ref=f4e217]:
+                - generic [ref=f4e218]:
+                  - 'generic "Fri: 0" [ref=f4e219]'
+                  - 'generic "Fri: 0" [ref=f4e220]'
+                - generic [ref=f4e221]: Fri
+              - generic [ref=f4e222]:
+                - generic [ref=f4e223]:
+                  - 'generic "Sat: 0" [ref=f4e224]'
+                  - 'generic "Sat: 0" [ref=f4e225]'
+                - generic [ref=f4e226]: Sat
+              - generic [ref=f4e227]:
+                - generic [ref=f4e228]:
+                  - 'generic "Sun: 0" [ref=f4e229]'
+                  - 'generic "Sun: 0" [ref=f4e230]'
+                - generic [ref=f4e231]: Sun
+              - generic [ref=f4e232]:
+                - generic [ref=f4e233]:
+                  - 'generic "Mon: 0" [ref=f4e234]'
+                  - 'generic "Mon: 0" [ref=f4e235]'
+                - generic [ref=f4e236]: Mon
+              - generic [ref=f4e237]:
+                - generic [ref=f4e238]:
+                  - 'generic "Tue: 0" [ref=f4e239]'
+                  - 'generic "Tue: 0" [ref=f4e240]'
+                - generic [ref=f4e241]: Tue
+              - generic [ref=f4e242]:
+                - generic [ref=f4e243]:
+                  - 'generic "Wed: 0" [ref=f4e244]'
+                  - 'generic "Wed: 0" [ref=f4e245]'
+                - generic [ref=f4e246]: Wed
+              - generic [ref=f4e247]:
+                - generic [ref=f4e248]:
+                  - 'generic "Thu: 16" [ref=f4e249]'
+                  - 'generic "Thu: 55" [ref=f4e250]'
+                - generic [ref=f4e251]: Thu
+          - generic [ref=f4e252]:
+            - generic [ref=f4e254]:
+              - heading "Repository health" [level=2] [ref=f4e255]
+              - paragraph [ref=f4e256]: Publishing pipeline
+            - generic [ref=f4e258]:
+              - generic [ref=f4e259]:
+                - generic [ref=f4e260]: published
+                - generic [ref=f4e261]: repositories
+              - generic [ref=f4e262]: "1"
+            - link "Manage GitHub integration" [ref=f4e264] [cursor=pointer]:
+              - /url: /admin/github
+              - text: Manage GitHub integration
+              - generic [aria-hidden] [ref=f4e265]: →
+        - generic [ref=f4e266]:
+          - generic [ref=f4e267]:
+            - generic [ref=f4e269]:
+              - heading "Traffic sources" [level=2] [ref=f4e270]
+              - paragraph [ref=f4e271]: Where requests originate
+            - generic [ref=f4e272]:
+              - generic [ref=f4e274]:
+                - generic [ref=f4e275]: Unknown
+                - generic [ref=f4e276]: "45"
+              - generic [ref=f4e280]:
+                - generic [ref=f4e281]: Website
+                - generic [ref=f4e282]: "8"
+              - generic [ref=f4e286]:
+                - generic [ref=f4e287]: External_api
+                - generic [ref=f4e288]: "2"
+          - generic [ref=f4e291]:
+            - generic [ref=f4e293]:
+              - heading "Top pages" [level=2] [ref=f4e294]
+              - paragraph [ref=f4e295]: Most requested routes
+            - generic [ref=f4e296]:
+              - generic [ref=f4e298]:
+                - generic [ref=f4e299]: /api/settings/site/coming_soon
+                - generic [ref=f4e300]: "8"
+              - generic [ref=f4e304]:
+                - generic [ref=f4e305]: /api/auth/login
+                - generic [ref=f4e306]: "6"
+              - generic [ref=f4e310]:
+                - generic [ref=f4e311]: /api/settings/theme
+                - generic [ref=f4e312]: "4"
+              - generic [ref=f4e316]:
+                - generic [ref=f4e317]: /api/sessions/ping
+                - generic [ref=f4e318]: "3"
+              - generic [ref=f4e322]:
+                - generic [ref=f4e323]: /api/github/repositories/octocat/Hello-World
+                - generic [ref=f4e324]: "3"
+              - generic [ref=f4e328]:
+                - generic [ref=f4e329]: /api/github/repositories/octocat/Hello-World/tree
+                - generic [ref=f4e330]: "3"
+          - generic [ref=f4e333]:
+            - generic [ref=f4e334]:
+              - generic [ref=f4e335]:
+                - heading "Recent logs" [level=2] [ref=f4e336]
+                - paragraph [ref=f4e337]: Warnings and errors
+              - link "Open console" [ref=f4e338] [cursor=pointer]:
+                - /url: /admin/system
+            - generic [ref=f4e339]:
+              - generic [ref=f4e340]:
+                - generic [ref=f4e341]:
+                  - generic [ref=f4e342]: warning
+                  - generic [ref=f4e343]: security
+                  - generic [ref=f4e344]: 14m ago
+                - paragraph [ref=f4e345]: Invalid GitHub webhook signature
+              - generic [ref=f4e346]:
+                - generic [ref=f4e347]:
+                  - generic [ref=f4e348]: error
+                  - generic [ref=f4e349]: frontend
+                  - generic [ref=f4e350]: 14m ago
+                - paragraph [ref=f4e351]: Test client error
+              - generic [ref=f4e352]:
+                - generic [ref=f4e353]:
+                  - generic [ref=f4e354]: warning
+                  - generic [ref=f4e355]: security
+                  - generic [ref=f4e356]: 14m ago
+                - paragraph [ref=f4e357]: Blocked IP attempted access
+        - generic [ref=f4e358]:
+          - generic [ref=f4e359]:
+            - generic [ref=f4e361]:
+              - heading "Recent requests" [level=2] [ref=f4e362]
+              - paragraph [ref=f4e363]: Latest attributed API activity
+            - link "View all" [ref=f4e364] [cursor=pointer]:
+              - /url: /admin/requests
+          - table [ref=f4e366]:
+            - rowgroup [ref=f4e367]:
+              - row [ref=f4e368]:
+                - columnheader "Request" [ref=f4e369]
+                - columnheader "Source" [ref=f4e370]
+                - columnheader "Status" [ref=f4e371]
+                - columnheader "Device" [ref=f4e372]
+                - columnheader "When" [ref=f4e373]
+            - rowgroup [ref=f4e374]:
+              - row [ref=f4e375]:
+                - cell "GET /api/settings/theme" [ref=f4e376]:
+                  - generic [ref=f4e377]: GET
+                  - text: /api/settings/theme
+                - cell "Unknown" [ref=f4e378]
+                - cell "200" [ref=f4e379]
+                - cell "desktop · Unknown" [ref=f4e381]:
+                  - text: desktop
+                  - generic [ref=f4e382]: · Unknown
+                - cell "just now" [ref=f4e383]
+              - row [ref=f4e384]:
+                - cell "POST /api/auth/login" [ref=f4e385]:
+                  - generic [ref=f4e386]: POST
+                  - text: /api/auth/login
+                - cell "Unknown" [ref=f4e387]
+                - cell "200" [ref=f4e388]
+                - cell "desktop · Unknown" [ref=f4e390]:
+                  - text: desktop
+                  - generic [ref=f4e391]: · Unknown
+                - cell "just now" [ref=f4e392]
+              - row [ref=f4e393]:
+                - cell "POST /api/auth/login" [ref=f4e394]:
+                  - generic [ref=f4e395]: POST
+                  - text: /api/auth/login
+                - cell "Unknown" [ref=f4e396]
+                - cell "200" [ref=f4e397]
+                - cell "desktop · Unknown" [ref=f4e399]:
+                  - text: desktop
+                  - generic [ref=f4e400]: · Unknown
+                - cell "1m ago" [ref=f4e401]
+              - row [ref=f4e402]:
+                - cell "POST /api/auth/login" [ref=f4e403]:
+                  - generic [ref=f4e404]: POST
+                  - text: /api/auth/login
+                - cell "Unknown" [ref=f4e405]
+                - cell "200" [ref=f4e406]
+                - cell "desktop · Unknown" [ref=f4e408]:
+                  - text: desktop
+                  - generic [ref=f4e409]: · Unknown
+                - cell "1m ago" [ref=f4e410]
+              - row [ref=f4e411]:
+                - cell "GET /api/settings/theme" [ref=f4e412]:
+                  - generic [ref=f4e413]: GET
+                  - text: /api/settings/theme
+                - cell "Unknown" [ref=f4e414]
+                - cell "200" [ref=f4e415]
+                - cell "desktop · Unknown" [ref=f4e417]:
+                  - text: desktop
+                  - generic [ref=f4e418]: · Unknown
+                - cell "1m ago" [ref=f4e419]
+              - row [ref=f4e420]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f4e421]:
+                  - generic [ref=f4e422]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f4e423]
+                - cell "200" [ref=f4e424]
+                - cell "desktop · Unknown" [ref=f4e426]:
+                  - text: desktop
+                  - generic [ref=f4e427]: · Unknown
+                - cell "2m ago" [ref=f4e428]
+              - row [ref=f4e429]:
+                - cell "GET /api/projects" [ref=f4e430]:
+                  - generic [ref=f4e431]: GET
+                  - text: /api/projects
+                - cell "Unknown" [ref=f4e432]
+                - cell "200" [ref=f4e433]
+                - cell "desktop · Unknown" [ref=f4e435]:
+                  - text: desktop
+                  - generic [ref=f4e436]: · Unknown
+                - cell "2m ago" [ref=f4e437]
+              - row [ref=f4e438]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f4e439]:
+                  - generic [ref=f4e440]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f4e441]
+                - cell "200" [ref=f4e442]
+                - cell "desktop · Unknown" [ref=f4e444]:
+                  - text: desktop
+                  - generic [ref=f4e445]: · Unknown
+                - cell "3m ago" [ref=f4e446]
+              - row [ref=f4e447]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f4e448]:
+                  - generic [ref=f4e449]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f4e450]
+                - cell "200" [ref=f4e451]
+                - cell "desktop · Unknown" [ref=f4e453]:
+                  - text: desktop
+                  - generic [ref=f4e454]: · Unknown
+                - cell "3m ago" [ref=f4e455]
+              - row [ref=f4e456]:
+                - cell "GET /api/settings/site/coming_soon" [ref=f4e457]:
+                  - generic [ref=f4e458]: GET
+                  - text: /api/settings/site/coming_soon
+                - cell "Unknown" [ref=f4e459]
+                - cell "200" [ref=f4e460]
+                - cell "desktop · Unknown" [ref=f4e462]:
+                  - text: desktop
+                  - generic [ref=f4e463]: · Unknown
+                - cell "4m ago" [ref=f4e464]
+  - button "Open Next.js Dev Tools" [ref=f4e144] [cursor=pointer]
+  - alert [ref=f4e148]

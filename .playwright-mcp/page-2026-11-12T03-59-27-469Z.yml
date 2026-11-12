@@ -1,0 +1,41 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - navigation "Main navigation" [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - link "Back" [ref=f1e5]:
+          - /url: /
+        - link [ref=f1e9]:
+          - /url: /
+          - img "Mohammed Waleed — Full Stack Developer" [ref=f1e10]
+      - list [ref=f1e11]:
+        - listitem [ref=f1e12]:
+          - link "Projects" [ref=f1e13]:
+            - /url: /projects
+        - listitem [ref=f1e14]:
+          - link "Open Source" [ref=f1e15]:
+            - /url: /open-source
+        - listitem [ref=f1e16]:
+          - link "About" [ref=f1e17]:
+            - /url: /about
+        - listitem [ref=f1e18]:
+          - link "Contact" [ref=f1e19]:
+            - /url: /contact
+        - listitem [ref=f1e20]:
+          - button "Start Now" [ref=f1e21]
+    - main [ref=f1e22]:
+      - link "All repositories" [ref=f1e24]:
+        - /url: /open-source
+    - contentinfo [ref=f1e28]:
+      - generic [ref=f1e29]:
+        - generic [ref=f1e30]:
+          - paragraph [ref=f1e31]: Full Stack Developer
+          - heading "Mohammed Waleed" [level=2] [ref=f1e32]
+        - navigation [ref=f1e35]:
+          - link "About" [ref=f1e36]:
+            - /url: /about
+          - link "Contact" [ref=f1e37]:
+            - /url: /contact
+      - generic [ref=f1e39]:
+        - paragraph [ref=f1e40]: mo7ammed.engineer@gmail.com
+        - paragraph [ref=f1e41]: © 2026 Mohammed Waleed. All rights reserved.
+  - alert [ref=f1e42]

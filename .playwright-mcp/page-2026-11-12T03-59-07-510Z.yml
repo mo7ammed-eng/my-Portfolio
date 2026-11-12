@@ -1,0 +1,55 @@
+- generic [ref=e2]:
+  - navigation "Main navigation" [ref=e3]:
+    - generic [ref=e4]:
+      - link "Back" [ref=e5]:
+        - /url: /
+      - link [ref=e9]:
+        - /url: /
+        - img "Mohammed Waleed — Full Stack Developer" [ref=e10]
+    - list [ref=e11]:
+      - listitem [ref=e12]:
+        - link "Projects" [ref=e13]:
+          - /url: /projects
+      - listitem [ref=e14]:
+        - link "Open Source" [ref=e15]:
+          - /url: /open-source
+      - listitem [ref=e16]:
+        - link "About" [ref=e17]:
+          - /url: /about
+      - listitem [ref=e18]:
+        - link "Contact" [ref=e19]:
+          - /url: /contact
+      - listitem [ref=e20]:
+        - button "Start Now" [ref=e21]
+  - main [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e25]:
+        - generic [ref=e26]: Open source
+        - heading "Code, systems and things I ship in public." [level=1] [ref=e29]: Code, systems andthings I ship in public.
+        - paragraph [ref=e30]: Every published repository is served from the same platform that powers this portfolio — with live metadata, file browsing and a review workflow behind it.
+        - generic [ref=e31]:
+          - generic [ref=e32]: 0 repositories
+          - generic [ref=e34]: 0 stars on this page
+          - link "GitHub profile" [ref=e36]:
+            - /url: https://github.com/mo7ammed-waleed
+      - generic [ref=e40]:
+        - textbox "Search repositories, language, description…" [ref=e45]
+        - generic [ref=e46]:
+          - generic [ref=e47]: Sort
+          - button "Featured" [ref=e50]
+          - button "Recently pushed" [ref=e51]
+          - button "Most starred" [ref=e52]
+          - button "A–Z" [ref=e53]
+  - contentinfo [ref=e61]:
+    - generic [ref=e62]:
+      - generic [ref=e63]:
+        - paragraph [ref=e64]: Full Stack Developer
+        - heading "Mohammed Waleed" [level=2] [ref=e65]
+      - navigation [ref=e68]:
+        - link "About" [ref=e69]:
+          - /url: /about
+        - link "Contact" [ref=e70]:
+          - /url: /contact
+    - generic [ref=e72]:
+      - paragraph [ref=e73]: mo7ammed.engineer@gmail.com
+      - paragraph [ref=e74]: © 2026 Mohammed Waleed. All rights reserved.

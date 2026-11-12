@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:search="http://www.google.com/schemas/sitemap-search/1.0">
+  <metadata>
+    <title>Mohammed Waleed — Search Keywords and AEO Metadata</title>
+    <description>Comprehensive list of search terms and Answer Engine Optimization metadata for Mohammed Waleed, Full Stack Developer.</description>
+    <keywords>
+      <!-- Development Keywords -->
+      <keyword>Full Stack Developer</keyword>
+      <keyword>Full Stack Web Developer</keyword>
+      <keyword>Web Developer</keyword>
+      <keyword>Web Application Developer</keyword>
+      <keyword>Freelance Developer</keyword>
+      <keyword>Freelance Full Stack Developer</keyword>
+      <keyword>Remote Developer</keyword>
+      <keyword>Egypt Web Developer</keyword>
+
+      <!-- Frontend -->
+      <keyword>React Developer</keyword>
+      <keyword>Next.js Developer</keyword>
+      <keyword>TypeScript Developer</keyword>
+      <keyword>JavaScript Developer</keyword>
+      <keyword>Tailwind CSS Developer</keyword>
+      <keyword>Frontend Developer</keyword>
+      <keyword>Frontend Engineer</keyword>
+
+      <!-- Backend -->
+      <keyword>Node.js Developer</keyword>
+      <keyword>Express.js Developer</keyword>
+      <keyword>PHP Developer</keyword>
+      <keyword>Laravel Developer</keyword>
+      <keyword>Backend Developer</keyword>
+      <keyword>REST API Developer</keyword>
+      <keyword>GraphQL Developer</keyword>
+      <keyword>API Development</keyword>
+      <keyword>Authentication Systems</keyword>
+
+      <!-- Databases -->
+      <keyword>MySQL Developer</keyword>
+      <keyword>MongoDB Developer</keyword>
+      <keyword>Database Design</keyword>
+      <keyword>Database Architecture</keyword>
+
+      <!-- Platforms -->
+      <keyword>Educational Platform Development</keyword>
+      <keyword>E-Commerce Platform Development</keyword>
+      <keyword>Inventory Management System</keyword>
+      <keyword>Warehouse Management System</keyword>
+      <keyword>QR Tracking System</keyword>
+      <keyword>Barcode Attendance System</keyword>
+      <keyword>Analytics Dashboard</keyword>
+      <keyword>Real-Time Chat Development</keyword>
+
+      <!-- Services -->
+      <keyword>Web Application Development</keyword>
+      <keyword>Backend Engineering</keyword>
+      <keyword>Scalable Web Applications</keyword>
+      <keyword>Custom Web Development</keyword>
+      <keyword>Hire Full Stack Developer</keyword>
+      <keyword>Hire React Developer</keyword>
+      <keyword>Hire Next.js Developer</keyword>
+      <keyword>Hire Backend Developer</keyword>
+
+      <!-- Practices -->
+      <keyword>Clean Architecture</keyword>
+      <keyword>Clean Code</keyword>
+      <keyword>CI/CD</keyword>
+      <keyword>Git</keyword>
+      <keyword>GitHub</keyword>
+      <keyword>Agile Development</keyword>
+      <keyword>Code Review</keyword>
+      <keyword>AI-Powered Development</keyword>
+    </keywords>
+  </metadata>
+
+  <url>
+    <loc>https://mohammedwaleed.dev/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <search:keywords>full stack developer, react developer, next.js developer, node.js developer, php developer, freelance developer egypt</search:keywords>
+  </url>
+  <url>
+    <loc>https://mohammedwaleed.dev/projects</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <search:keywords>full stack projects, web application portfolio, educational platform, commerce platform, inventory system</search:keywords>
+  </url>
+  <url>
+    <loc>https://mohammedwaleed.dev/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <search:keywords>about full stack developer, react next.js node.js developer, freelance developer egypt</search:keywords>
+  </url>
+  <url>
+    <loc>https://mohammedwaleed.dev/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <search:keywords>hire full stack developer, contact developer, freelance web developer</search:keywords>
+  </url>
+</urlset>

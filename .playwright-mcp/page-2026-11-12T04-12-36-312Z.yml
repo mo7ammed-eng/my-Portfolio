@@ -1,0 +1,53 @@
+- generic [ref=f19e2]:
+  - navigation "Main navigation" [ref=f19e3]:
+    - generic [ref=f19e4]:
+      - link "Back" [ref=f19e5]:
+        - /url: /
+      - link [ref=f19e9]:
+        - /url: /
+        - img "Mohammed Waleed — Full Stack Developer" [ref=f19e10]
+    - list [ref=f19e11]:
+      - listitem [ref=f19e12]:
+        - link "Projects" [ref=f19e13]:
+          - /url: /projects
+      - listitem [ref=f19e14]:
+        - link "Open Source" [ref=f19e15]:
+          - /url: /open-source
+      - listitem [ref=f19e16]:
+        - link "About" [ref=f19e17]:
+          - /url: /about
+      - listitem [ref=f19e18]:
+        - link "Contact" [ref=f19e19]:
+          - /url: /contact
+      - listitem [ref=f19e20]:
+        - button "Start Now" [ref=f19e21]
+  - main [ref=f19e22]:
+    - generic [ref=f19e23]:
+      - generic [ref=f19e25]:
+        - generic [ref=f19e26]: Open source
+        - heading "Code, systems and things I ship in public." [level=1] [ref=f19e29]: Code, systems andthings I ship in public.
+        - paragraph [ref=f19e30]: Every published repository is served from the same platform that powers this portfolio — with live metadata, file browsing and a review workflow behind it.
+        - generic [ref=f19e31]:
+          - generic [ref=f19e32]: 0 repositories
+          - generic [ref=f19e34]: 0 stars on this page
+      - generic [ref=f19e35]:
+        - textbox "Search repositories, language, description…" [ref=f19e40]
+        - generic [ref=f19e41]:
+          - generic [ref=f19e42]: Sort
+          - button "Featured" [ref=f19e45]
+          - button "Recently pushed" [ref=f19e46]
+          - button "Most starred" [ref=f19e47]
+          - button "A–Z" [ref=f19e48]
+  - contentinfo [ref=f19e56]:
+    - generic [ref=f19e57]:
+      - generic [ref=f19e58]:
+        - paragraph [ref=f19e59]: Full Stack Developer
+        - heading "Mohammed Waleed" [level=2] [ref=f19e60]
+      - navigation [ref=f19e63]:
+        - link "About" [ref=f19e64]:
+          - /url: /about
+        - link "Contact" [ref=f19e65]:
+          - /url: /contact
+    - generic [ref=f19e67]:
+      - paragraph [ref=f19e68]: mo7ammed.engineer@gmail.com
+      - paragraph [ref=f19e69]: © 2026 Mohammed Waleed. All rights reserved.
